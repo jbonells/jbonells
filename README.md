@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Initial README for my [profile](https://github.com/jbonells).
+
+- 🔭 I’m currently working on Data Analysis projects
+- 🌱 I’m currently learning Python and JavaScript!
+
+## License
+
+My projects are licensed under the GNU GPLv3 License - see the [LICENSE.md](LICENSE.md) file for details.
