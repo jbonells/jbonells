@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 Initial README for my [profile](https://github.com/jbonells).
 
-- 🔭 I’m currently working on Data Analysis projects
+- 🔭 I’m currently working on Data Analysis projects.
 - 🌱 I’m currently learning Python and JavaScript!
 
 ## License
