@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 Initial README for my [profile](https://github.com/jbonells).
 
-![20250720_173311](https://github.com/user-attachments/assets/06521c01-dafe-4604-9ba9-54879b945550)
-
 - 🔭 I’m currently working on Data Analysis projects.
 - 🌱 I’m currently learning Python and JavaScript!
 
