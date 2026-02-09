@@ -35,30 +35,6 @@ graph TB
     style E fill:#d62728
 ```
 
-## 📈 Featured Projects
-
-| Project | Tech Stack | Status | Link |
-|---------|------------|--------|------|
-| **Risk Analytics Dashboard** | Power BI + SQL + Excel | 🛠️ In Progress | 📊 Coming Soon |
-| **SQL Risk Portfolio** | SQL Server + T-SQL + CTEs | 📝 Building | [GitHub SQL](https://github.com/jbonells/sql-portfolio) |
-| **GRC Data Automation** | Power Automate + Office Scripts | 🛠️ In Progress | 📊 Coming Soon |
-
-## 📊 Professional Highlights
-
-```mermaid
-graph TD
-    A["**Computershare**<br/>2021-Present"] --> B["SQL analysis:<br/>50+ risk actions/year"]
-    A --> C["Automated KPIs:<br/>30% time savings"]
-    A --> D["Executive reporting:<br/>100% on-time deployments"]
-    
-    E["**RSA Security**<br/>2014-2021"] --> F["Data models:<br/>15+ EMEA clients"]
-    E --> G["SQL automation:<br/>40% less manual entry"]
-    E --> H["Custom dashboards:<br/>25% compliance gain"]
-    
-    style A fill:#1f77b4
-    style E fill:#ff7f0e
-```
-
 ## 📫 Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/jbonells)
