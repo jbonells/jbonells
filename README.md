@@ -21,4 +21,4 @@ Initial README for my [profile](https://github.com/jbonells).
 
 ## License
 
-My projects are licensed under the GNU GPLv3 License - see the [LICENSE.md](LICENSE.md) file for details.
+My projects are licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
