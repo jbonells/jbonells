@@ -35,6 +35,10 @@ graph TB
     style E fill:#d62728
 ```
 
+### Learning Progress:
+
+[![Roadmap](https://roadmap.sh/card/tall/6986fd8312539ef4f3e86c0a?variant=dark&roadmaps=git-github%2Csql%2Cjavascript%2Cdata-analyst)](https://roadmap.sh)
+
 ## 📫 Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/jbonells)
