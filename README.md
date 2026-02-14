@@ -1,11 +1,11 @@
 # Hi, I'm Jaume 👋
 
 Data-driven Senior Business Analyst specialising in **Governance, Risk & Compliance (GRC)** and **Data Analytics**.  
-I work with SQL, Excel, and Power BI to turn complex risk and operational data into clear, actionable insights for stakeholders.
+Currently Transitioning **From Senior GRC Business Analyst → Data Analyst**
 
-- 🔎 **Focus:** Risk & Compliance Analytics, Dashboards, and Reporting
+- 🔎 **Focus:** Risk & Compliance Analytics, Dashboards and Reporting
 - 🧮 **Tech:** SQL (T‑SQL), Power BI, Excel (Power Query, Pivot Tables, Office Scripts)
-- 🏦 **Domain:** Enterprise Risk, GRC Platforms (Archer, ServiceNow)
+- 🏦 **Domain Expertise**: Risk Analytics, Compliance Data, Financial Services
 - 🎯 **Goal:** Grow into a dedicated Data Analyst / Data Scientist role in Risk & Finance
 
 ### 🛠 Tech & Tools
@@ -16,7 +16,7 @@ I work with SQL, Excel, and Power BI to turn complex risk and operational data i
 - Power BI (Data Modelling, DAX, Dashboards)  
 - Excel (Power Query, Pivot Tables, Office Scripts)
 
-**GRC & Platforms**
+**GRC Platforms**
 
 - Archer GRC  
 - ServiceNow GRC  
@@ -28,9 +28,11 @@ I work with SQL, Excel, and Power BI to turn complex risk and operational data i
 - PowerShell  
 - MS Project, MS Visio
 
-### 📊 Learning Progress:
+### 🔧 What I’m Working On
 
-[![Roadmap](https://roadmap.sh/card/tall/6986fd8312539ef4f3e86c0a?variant=dark&roadmaps=git-github%2Csql%2Cjavascript%2Cdata-analyst)](https://roadmap.sh)
+- Building a small portfolio of Risk / Compliance Analytics projects in SQL, Excel and Power BI  
+- Exploring Python for Data Analysis and basic ML on risk datasets  
+- Documenting my learning **Roadmap** from GRC Business Analyst → Data Analyst → Data Scientist
 
 ## 📫 Get in Touch
 
