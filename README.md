@@ -11,18 +11,15 @@ Currently Transitioning **From Senior GRC Business Analyst → Data Analyst**
 ### 🛠 Tech & Tools
 
 **Data & BI**
-
 - SQL (T‑SQL, Joins, CTEs, Window Functions)  
 - Power BI (Data Modelling, DAX, Dashboards)  
 - Excel (Power Query, Pivot Tables, Office Scripts)
 
 **GRC Platforms**
-
 - Archer GRC  
 - ServiceNow GRC  
 
 **Other**
-
 - Git & GitHub  
 - Power Automate  
 - PowerShell  
