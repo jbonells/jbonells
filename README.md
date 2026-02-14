@@ -8,7 +8,7 @@ I work with SQL, Excel, and Power BI to turn complex risk and operational data i
 - 🏦 **Domain:** Enterprise Risk, GRC Platforms (Archer, ServiceNow)
 - 🎯 **Goal:** Grow into a dedicated Data Analyst / Data Scientist role in Risk & Finance
 
-### 🔧 Tech & Tools
+### 🛠 Tech & Tools
 
 **Data & BI**
 
@@ -28,7 +28,7 @@ I work with SQL, Excel, and Power BI to turn complex risk and operational data i
 - PowerShell  
 - MS Project, MS Visio
 
-### Learning Progress:
+### 📊 Learning Progress:
 
 [![Roadmap](https://roadmap.sh/card/tall/6986fd8312539ef4f3e86c0a?variant=dark&roadmaps=git-github%2Csql%2Cjavascript%2Cdata-analyst)](https://roadmap.sh)
 
