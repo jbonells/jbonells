@@ -1,7 +1,7 @@
 # Hi, I'm Jaume 👋
 
 Data-driven Senior Business Analyst specialising in **Governance, Risk & Compliance (GRC)** and **Data Analytics**.  
-Currently Transitioning **From Senior GRC Business Analyst → Data Analyst**
+> Currently Transitioning **From Senior GRC Business Analyst → Data Analyst**
 
 - 🔎 **Focus:** Risk & Compliance Analytics, Dashboards and Reporting
 - 🧮 **Tech:** SQL (T‑SQL), Power BI, Excel (Power Query, Pivot Tables, Office Scripts)
