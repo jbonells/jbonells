@@ -25,6 +25,10 @@ Data-driven Senior Business Analyst specialising in **Governance, Risk & Complia
 - PowerShell  
 - MS Project, MS Visio
 
+### 📊 Featured Projects
+
+Welcome to my portfolio, where I showcase my [projects](https://github.com/jbonells/Portfolio/blob/main/README.md).
+
 ### 🔧 What I’m Working On
 
 - Building a small portfolio of Risk / Compliance Analytics projects in SQL, Excel and Power BI  
