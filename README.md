@@ -4,7 +4,7 @@ Data-driven Senior Business Analyst specialising in **Governance, Risk & Complia
 > Currently Transitioning **From Senior GRC Business Analyst → Data Analyst**
 
 - 🔎 **Focus:** Risk & Compliance Analytics, Dashboards and Reporting
-- 🧮 **Tech:** SQL c, Power BI, Excel
+- 🧮 **Tech:** SQL (T‑SQL, PostgreSQL), Power BI, Excel
 - 🏦 **Domain Expertise**: Risk Analytics, Compliance Data, Financial Services
 - 🎯 **Goal:** Grow into a dedicated Data Analyst / Data Scientist role in Risk & Finance
 
