@@ -23,7 +23,7 @@ Data-driven Senior Business Analyst specialising in **Governance, Risk & Complia
 - Git & GitHub
 - Power Automate
 - PowerShell
-- MS Project, MS Visio
+- Microsoft Project, Microsoft Visio
 
 ### 📊 Featured Projects
 
